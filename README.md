@@ -1,2 +1,2 @@
 # tensorflow2_ipynb
-model examples using Tensorflow 2.x
+simple models written in Tensorflow 2.x
